@@ -11,8 +11,6 @@
 .carousel-indicators [data-bs-target]{
     height: 20px;
     width: 20px;
-    border-radius: 50%;
-
 }
 .container{
     max-width: 1600px;
