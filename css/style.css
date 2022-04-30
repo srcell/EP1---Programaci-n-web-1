@@ -11,8 +11,8 @@
     --color-negro: #000000;
 }
 #main-footer{
-    background-color: var(#FFFFFF);
-    color: var(#000000);
+    background-color: var(--color-gris-oscuro);
+    color: var(--color-gris-claro);
     padding: 45px 0;
 }
 .padded{
