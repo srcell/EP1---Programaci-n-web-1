@@ -1,0 +1,18 @@
+#main-footer{
+    background-color: var(--color-gris-oscuro);
+    color: var(--color-gris-claro);
+    padding: 45px 0;
+}
+.padded{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.carousel-indicators [data-bs-target]{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+
+}
+.container{
+    max-width: 1600px;
+}
