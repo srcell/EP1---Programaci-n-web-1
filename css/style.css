@@ -1,4 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700;900&display=swap');
+:root{
+    --color1: #750000;
+    --color2: #D69A24;
+    --color3: #306658;
+    --color4: #633615;
+    --color5: #1E3810;
+    --color-gris-claro: #CCCCCC;
+    --color-gris-oscuro: #444444;
+    --color-blanco: #FFFFFF;
+    --color-negro: #000000;
+}
 #main-footer{
     background-color: var(--color-gris-oscuro);
     color: var(--color-gris-claro);
