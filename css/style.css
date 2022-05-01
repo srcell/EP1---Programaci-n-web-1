@@ -1,3 +1,6 @@
 #snotros{
     display: flex;
 }
+.articule{
+    vertical-align: inherit
+}
