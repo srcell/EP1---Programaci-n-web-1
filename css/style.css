@@ -1,3 +1,6 @@
 .container{
     background-color: antiquewhite;
 }
+.row{
+    display: flex;
+}
