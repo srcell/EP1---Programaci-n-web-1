@@ -16,7 +16,23 @@
 #main-footer{
     background-color: var(--color-gris-oscuro);
     color: var(--color-gris-claro);
-    padding: 45px 0;
+    position: relative;
+    padding: 78px 0 40px 0;
+    overflow: hidden;
+}
+#footer.footer-estilo{
+    background: url(/image/logo-test.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer-logo{
+    text-align: center;
+    margin-bottom: 75px;
+    margin-top: 2px;
+}
+#footer .widget .widget-title{
+    color: #fff;
 }
 .padded{
     background-color: var( --color5);
