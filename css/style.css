@@ -27,10 +27,19 @@
 .container{
     max-width: 1600px;
 }
-#reseña h2{
+#reseña h3{
     text-align: center;
+}
+h2{
     padding-bottom: 40px;
+<<<<<<< HEAD
 }
 .material-symbols-outlined{
  text-align: center;
+=======
+    text-align: center;
+}
+#reseña p{
+    text-align: center;
+>>>>>>> 390e23164010a1e450eb4feae315fc4228ab36cd
 }
