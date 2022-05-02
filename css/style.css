@@ -27,7 +27,13 @@
 .container{
     max-width: 1600px;
 }
-#reseña h2{
+#reseña h3{
     text-align: center;
+}
+h2{
     padding-bottom: 40px;
+    text-align: center;
+}
+#reseña p{
+    text-align: center;
 }
