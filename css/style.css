@@ -37,6 +37,7 @@
 h2{
     padding-bottom: 40px;
 
+
 }
 h3{
     text-align: center;
@@ -48,6 +49,17 @@ h3{
     
 }
 #reseña p{
+    text-align: center;
+}
+
+.img-responsive{
+    border-radius: 50%;
+    transition: all 0.3s ease;
+}
+.platos{
+    margin-top: -228px;
+    display: block;
+    width: 100%;
     text-align: center;
 
 }
