@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700;900&display=swap');
 :root{
-    --color1: #750000;
+    --color1: #F9F6F0;
     --color2: #D69A24;
     --color3: #306658;
     --color4: #633615;
-    --color5: #1E3810;
+    --color5: #999CA5;
     --color-gris-claro: #CCCCCC;
     --color-gris-oscuro: #444444;
     --color-blanco: #FFFFFF;
@@ -19,6 +19,7 @@
     content: "\f3c5";
 }
 .padded{
+    background-color: var( --color5);
     padding-top: 90px;
     padding-bottom: 90px;
 }
@@ -28,20 +29,14 @@
 }
 .container{
     max-width: 1600px;
+    background-color: var(--color1);
 }
 #reseña h3{
     text-align: center;
 }
 h2{
     padding-bottom: 40px;
-<<<<<<< HEAD
 }
 .material-symbols-outlined{
  text-align: center;
-=======
-    text-align: center;
-}
-#reseña p{
-    text-align: center;
->>>>>>> 390e23164010a1e450eb4feae315fc4228ab36cd
 }
