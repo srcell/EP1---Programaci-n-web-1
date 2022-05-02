@@ -31,6 +31,9 @@
     margin-bottom: 75px;
     margin-top: 2px;
 }
+#footer .widget .widget-title{
+    color: #fff;
+}
 .padded{
     background-color: var( --color5);
     padding-top: 90px;
