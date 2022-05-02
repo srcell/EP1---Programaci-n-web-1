@@ -57,7 +57,9 @@ h3{
     transition: all 0.3s ease;
 }
 .platos{
-    margin-top: -228px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+
     display: block;
     width: 100%;
     text-align: center;
