@@ -504,6 +504,9 @@
     max-width: 1600px;
     background-color: var(--color1);
 }
+.container-fluid .col-6{
+    color: red;
+}
 #reseña h3{
     text-align: center;
 }
@@ -514,11 +517,13 @@ h2{
 h3{
     text-align: center;
 }
-.material-symbols-outlined{
+.material-symbols-out lined{
    text-align: center;
    margin-left: 110px;
+}
 
-    
+#menu-iconos{
+    display: inline;
 }
 #reseña p{
     text-align: center;
