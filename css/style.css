@@ -18,9 +18,9 @@
 }
 /* Footer-------------------------------- */
 #main-footer{
+    background-color: var(--color-gris-oscuro);
     color: var(--color-gris-claro);
     padding: 45px 0;
-    background-color: #252525;
 }
 /* Footer
 -------------------------------------------------------------- */
@@ -28,15 +28,17 @@
     position: relative;
     padding: 78px 0 40px 0;
     overflow: hidden;
+<<<<<<< HEAD
 
+=======
+>>>>>>> e904c2db40f4c09d4d9ee4de1f192ac9a67cfc02
 }
 
 #footer.footer-style01{
+    background: url(../img/footer/img-ng-footer.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    
-
 }
 .container text-center text-md-left{
     background-color: #252525;
@@ -138,6 +140,11 @@ h3{
 .material-symbols-out lined{
    text-align: center;
    margin-left: 110px;
+}
+h4{
+    font-size: 24px;
+    color: #1d1d1d;
+    text-align: center;
 }
 
 #categorias .col{
