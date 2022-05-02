@@ -15,7 +15,9 @@
     color: var(--color-gris-claro);
     padding: 45px 0;
 }
-
+.widget.widget-contact .adress::before {
+    content: "\f3c5";
+}
 .padded{
     padding-top: 90px;
     padding-bottom: 90px;
