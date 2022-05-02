@@ -13,11 +13,89 @@
     --color-blanco: #FFFFFF;
     --color-negro: #000000;
 }
+/* Footer-------------------------------- */
 #main-footer{
     background-color: var(--color-gris-oscuro);
     color: var(--color-gris-claro);
     padding: 45px 0;
 }
+.widget-Facilities{
+    padding-left: 13px
+}
+
+.widget-Newsletters{
+    padding-left: 59px
+}
+
+.widget.widget-Newsletters p{
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 32px;
+    margin-bottom: 27px;
+    color: rgba(255,255,255,0.6);
+}
+.widget-contact{
+    padding-left: 153px
+  }
+  
+  .widget-footer .widget-title{
+      margin-bottom: 18px;
+  }
+  .widget-contact.widget-footer .widget-title{
+      margin-bottom: 25.5px;
+  }
+  
+  .widget-Newsletters.widget-footer .widget-title{
+      margin-bottom: 22px;
+  }
+  
+  .widget.widget-contact li{
+      line-height: 32px;
+      position: relative;
+      display: flex;
+      padding-bottom: 10px;
+      padding-left: 31.5px;
+  }
+/* Footer-------------------------------- */
+.widget.widget-contact .adress::before,
+.widget.widget-contact .mail::before,
+.widget.widget-contact .phone::before,
+.widget.widget-contact .clock::before{
+     font-family: "Font Awesome 5 Pro";
+    color: #c8a96a;
+    font-size: 15px;
+    font-weight: 300;
+    position: absolute;
+    left: 2px;
+    top: 4px;
+}
+
+.widget.widget-contact .clock::before{
+    top: 1px;
+}
+
+.widget.widget-contact .clock{
+    margin-top: 3px;
+    padding-left: 34px;
+}
+
+.widget.widget-contact .adress::before{
+    content: "\f3c5";  
+}
+
+.widget.widget-contact .mail::before{
+    content: "\f2b6";
+}
+
+.widget.widget-contact .phone::before{
+    content: "\f095";  
+}
+
+.widget.widget-contact .clock::before{
+    content: "\f017";  
+}
+
+/* Footer-------------------------------- */
 .padded{
     background-color: var( --color5);
     padding-top: 90px;
