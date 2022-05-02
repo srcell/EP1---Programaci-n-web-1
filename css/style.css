@@ -92,6 +92,49 @@
 .widget.widget-contact .clock::before{
     content: "\F293";  
 }
+/* Scroll Top
+-------------------------------------------------------------- */
+.wrap-scroll {
+    display: flex;
+    justify-content: center;
+    z-index: 9;
+    margin-top: 62px;
+    width: 100%;
+    position: relative;
+    z-index: 15;
+}
+
+#scroll-top {
+    display: block;
+    position: absolute;
+    cursor: pointer;
+    border-radius: 50%;
+    z-index: 3;
+    text-align: center;
+    transform: translateY(-33px);
+    width: 100px;
+    height: 100px;
+}
+
+#scroll-top img{
+    width: 80px;
+    height: 96px;
+}
+
+#scroll-top:hover img{
+    transform: scale(0.9);
+
+}
+
+#scroll-top,
+#scroll-top img,
+#scroll-top {
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
 
 
 
