@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Forum&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import "bootstrap.css";
+
 :root{
     --color1: #F9F6F0;
     --color2: #D69A24;
@@ -14,9 +17,6 @@
     background-color: var(--color-gris-oscuro);
     color: var(--color-gris-claro);
     padding: 45px 0;
-}
-.widget.widget-contact .adress::before {
-    content: "\f3c5";
 }
 .padded{
     background-color: var( --color5);
