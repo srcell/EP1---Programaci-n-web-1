@@ -64,10 +64,6 @@
     margin-left: calc(-.5 * var(--bs-gutter-x));
 
 }
-.row align-item-center{
-    background-color: var(--color-blanco);
-}
-
 /* Scroll Top
 -------------------------------------------------------------- */
 .wrap-scroll {
