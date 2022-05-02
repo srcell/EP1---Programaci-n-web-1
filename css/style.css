@@ -32,14 +32,18 @@
 }
 h2{
     padding-bottom: 40px;
-<<<<<<< HEAD
+
+}
+h3{
+    text-align: center;
 }
 .material-symbols-outlined{
- text-align: center;
-=======
-    text-align: center;
+   text-align: center;
+   margin-left: 110px;
+
+    
 }
 #reseña p{
     text-align: center;
->>>>>>> 390e23164010a1e450eb4feae315fc4228ab36cd
+
 }
