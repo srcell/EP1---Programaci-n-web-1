@@ -18,11 +18,7 @@
 }
 /* Footer-------------------------------- */
 #main-footer{
-<<<<<<< HEAD
-    background-color: #252525;
-=======
     background-color: var(--color-gris-oscuro);
->>>>>>> f4ffff9b3bb35358ed1421b116925e83e40a781c
     color: var(--color-gris-claro);
     padding: 45px 0;
 }
@@ -35,10 +31,10 @@
 }
 
 #footer.footer-style01{
-    background: url(../img/footer/img-ng-footer.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+
 }
 
 .logo-footer {
