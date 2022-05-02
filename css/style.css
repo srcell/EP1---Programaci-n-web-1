@@ -492,7 +492,7 @@
 
 /* Footer-------------------------------- */
 .padded{
-    background-color: var( --color5);
+    background-color: var( --color1);
     padding-top: 90px;
     padding-bottom: 90px;
 }
@@ -509,8 +509,7 @@
 }
 h2{
     padding-bottom: 40px;
-
-
+    text-align: center;
 }
 h3{
     text-align: center;
