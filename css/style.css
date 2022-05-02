@@ -30,6 +30,9 @@
     overflow: hidden;
 
 }
+.container{
+    background-color: #252525;
+}
 
 #footer.footer-style01{
     background-position: center center;
