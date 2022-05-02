@@ -31,10 +31,11 @@
 }
 
 #footer.footer-style01{
-    background: url(../img/footer/img-ng-footer.jpg);
+    background: url(index.html);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+
 }
 
 .logo-footer {
@@ -86,6 +87,7 @@
 #scroll-top img{
     width: 80px;
     height: 96px;
+    
 }
 
 #scroll-top:hover img{
