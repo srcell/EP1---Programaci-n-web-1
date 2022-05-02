@@ -113,8 +113,9 @@
     text-align: center;
 }
 h2{
-    text-align: center;
     padding-bottom: 40px;
+
+
 }
 h3{
     text-align: center;
@@ -131,6 +132,10 @@ h3{
 
 .img-responsive{
     border-radius: 50%;
+    transition: all 0.3s ease;
+}
+
+.cubiertos{
     transition: all 0.3s ease;
 }
 .platos{
