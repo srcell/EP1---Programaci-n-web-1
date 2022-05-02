@@ -26,3 +26,7 @@
 .container{
     max-width: 1600px;
 }
+#reseña h2{
+    text-align: center;
+    padding-bottom: 40px;
+}
