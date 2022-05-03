@@ -181,6 +181,16 @@ h6{
     transition: background-color, width 4s;
 }
 
+#categorias .col #icom{
+    color: #c8a96a;
+    transition: color,widt 0s;
+}
+
+#categorias .col #icom:hover{
+    color: #FFFFFF;
+
+}
+
 #categorias .col:hover{
     background-color: #c8a96a;;
 
