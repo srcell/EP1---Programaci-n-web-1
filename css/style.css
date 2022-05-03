@@ -143,8 +143,8 @@ h7{
     font-family: 'Forum', cursive;
 }
 .tit1{
-    margin-top: -200px;
-    padding-bottom: 100px;
+    margin-top: -235px;
+    padding-bottom: 126px;
 }
 
 #icom .material-symbols-outlined{
@@ -173,27 +173,40 @@ h7{
     padding-bottom: 79px;
     padding-right: 0px;
     font-size: 24px;
-    padding-left: 0px;
-    color: var(--color2);
+    padding-left: 0px;  
     background-color: var(--color-blanco);
     transition: background-color, width 4s;
+   
+}
+#categorias .col:hover{
+    background-color:   #c8a96a;
+    ;
 }
 
-#categorias .col #icom .material-symbols-outlined{
+.img-fluid{
+transition: all 0.3s ease;
+transform: translateY(0);
+}
+.img-fluid:hover{
+    transition: all 0.3s ease;
+    transform: translateY(-20px);
+
+}
+
+
+/*#categorias .col #icom .material-symbols-outlined{
     color: #c8a96a;
-    transition: color,widt 0s;
-    transition: all 0.8s ease;
+    transition: color, width 4s;
 }
-
 #categorias .col #icom .material-symbols-outlined:hover{
     color: #FFFFFF;
+}*/
 
-}
 
-#categorias .col:hover{
-    background-color: #c8a96a;;
 
-}
+
+
+
 
 #menu-iconos{
     display: inline;
