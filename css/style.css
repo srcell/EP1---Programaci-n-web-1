@@ -146,12 +146,12 @@ h6{
     margin-top: 40px;
 }
 
-#icom-material-symbols-outlined{
+#icom .material-symbols-outlined{
     font-size: 50px;
     color: #c8a96a;
 }
 
-#flec-material-symbols-outlined{
+#flec .material-symbols-outlined{
     color: #000000;
 }
 
