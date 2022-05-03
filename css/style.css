@@ -154,9 +154,7 @@ h6{
     color: #c8a96a;
     transition: color, width 4s;
 }
-#icom .material-symbols-outlined:hover{
-  color: var(--color-blanco);
-}
+
 
 
 #flec .material-symbols-outlined{
@@ -181,12 +179,12 @@ h6{
     transition: background-color, width 4s;
 }
 
-#categorias .col #icom{
+#categorias .col #icom .material-symbols-outlined{
     color: #c8a96a;
     transition: color,widt 0s;
 }
 
-#categorias .col #icom:hover{
+#categorias .col #icom .material-symbols-outlined:hover{
     color: #FFFFFF;
 
 }
