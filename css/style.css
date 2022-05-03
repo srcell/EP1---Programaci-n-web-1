@@ -104,6 +104,12 @@
 #reseña h3{
     text-align: center;
 }
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: #1D1D1D;
+
+}
 h2{
     padding-bottom: 40px;
     text-align: center;
@@ -126,6 +132,14 @@ h5{
     color: rgba(200, 169, 106,0.1);
     font-size: 250px;
     font-family: 'Forum', cursive;
+   
+}
+h6{
+    font-family: 'Forum', cursive;
+    color: #1d1d1d;
+    font-size: 52px;
+    text-align: center;
+    
 }
 
 #icom-material-symbols-outlined{
