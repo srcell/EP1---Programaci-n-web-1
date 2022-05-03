@@ -173,7 +173,14 @@ h6{
     padding-left: 0px;
     color: var(--color2);
     background-color: var(--color-blanco);
+    transition: background-color, width 4s;
 }
+
+#categorias .col:hover{
+    background-color: #c8a96a;;
+
+}
+
 #menu-iconos{
     display: inline;
 }
