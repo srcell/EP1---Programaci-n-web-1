@@ -104,6 +104,9 @@
 #reseña h3{
     text-align: center;
 }
+#critica figure{
+    text-align: center;
+}
 h1{
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
