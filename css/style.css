@@ -94,6 +94,10 @@
     padding: 25px 0;
 }
 
+.col1{
+    margin: 60px;
+}
+
 .footer-style02 .widget_socials li a{
     background-color: rgba(182,140,90,0.1);
     color: rgba(29, 29, 29, 0.5);
@@ -212,9 +216,7 @@
     max-width: 1600px;
     background-color: var(--color1);
 }
-.conteiner1{
-    padding: 20px,60px,40px,30px;
-}
+
 .container-fluid .col-6{
     color: red;
 }
