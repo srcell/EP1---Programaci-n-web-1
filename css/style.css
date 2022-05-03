@@ -194,6 +194,12 @@ h2{
     ;
 }
 
+.col .material-symbols-outlined{
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
 
 
 .img-fluid{
