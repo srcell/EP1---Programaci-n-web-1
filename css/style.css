@@ -525,7 +525,11 @@ h3{
    margin-left: 110px;
 }
 
-#categorias .col-3{
+#categorias .col{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-right: 40px;
+    padding-right: 4s0px;
     text-align: center;
     color: var(--color2);
     background-color: var(--color-blanco);
