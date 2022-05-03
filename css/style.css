@@ -132,8 +132,17 @@ h6{
     font-family: 'Forum', cursive;
     color: #1d1d1d;
     font-size: 52px;
-    text-align: center;
-    
+    text-align: center;  
+}
+
+h7{
+    font-size: 160px;
+    font-family: 'Forum', cursive;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: #1D1D1D;
 }
 
 
@@ -175,6 +184,9 @@ h2{
 }
 .col-xl-12{
     display: flex;
+}
+.col-md-7col-sm-6 h2{
+    font-size: 100px;
 }
 
 #categorias .col{
