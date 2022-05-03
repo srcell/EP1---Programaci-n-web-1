@@ -212,6 +212,9 @@
     max-width: 1600px;
     background-color: var(--color1);
 }
+.conteiner1{
+    padding: 20px,60px,40px,30px;
+}
 .container-fluid .col-6{
     color: red;
 }
