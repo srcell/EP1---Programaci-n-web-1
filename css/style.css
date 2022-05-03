@@ -264,7 +264,10 @@ h3{
 #reseña p{
     text-align: center;
 }
-
+#ubicanos p{
+    text-align: center;
+    font-size: 24px;
+}
 #platos img{
     transition: all 0.3s ease;
     border-radius: 50%;
