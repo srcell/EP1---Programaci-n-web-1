@@ -47,6 +47,16 @@
     color: #fff;
 }
 
+.row{
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+}
+
 
 /* bottom */
 #bottom{
@@ -95,7 +105,11 @@
 }
 
 .col1{
-    margin: 60px;
+    margin: 0;
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 60px;
 }
 
 .footer-style02 .widget_socials li a{
