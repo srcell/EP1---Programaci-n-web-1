@@ -152,7 +152,12 @@ h6{
     margin-bottom: 34px;
     margin-top: 20px;
     color: #c8a96a;
+    transition: background-color, width 4s;
 }
+#icom .material-symbols-outlined:hover{
+    background-color: var(--color-blanco);
+}
+
 
 #flec .material-symbols-outlined{
     font-size: 30px;
