@@ -143,11 +143,14 @@ h6{
     
 }
 .tit1{
-    margin-top: 40px;
+    margin-top: -200px;
+    padding-bottom: 100px;
 }
 
 #icom .material-symbols-outlined{
     font-size: 50px;
+    margin-bottom: 34px;
+    margin-top: 20px;
     color: #c8a96a;
 }
 
