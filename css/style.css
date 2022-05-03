@@ -135,6 +135,9 @@ h6{
     text-align: center;
     
 }
+.row .col .material-symbols-outlined{
+    color: #D69A24;
+} 
 h2{
     color: rgba(200, 169, 106,0.1);
     font-size: 250px;
