@@ -136,7 +136,8 @@ h6{
     
 }
 .row .col .material-symbols-outlined{
-    color: #D69A24;
+    color: #c8a96a;
+    margin-bottom: 41px;
 } 
 .row .col .material-symbols-outlined:hover{
     color: #fff;
