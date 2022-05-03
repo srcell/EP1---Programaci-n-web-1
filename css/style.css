@@ -155,9 +155,10 @@ h6{
 }
 
 #flec .material-symbols-outlined{
-    font-size: 18px;
+    font-size: 30px;
     font-weight: 600;
     color: #000000;
+    margin-top: 25px;
 }
 
 #categorias .col{
