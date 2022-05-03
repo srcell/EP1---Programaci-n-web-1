@@ -202,7 +202,7 @@ h2{
     margin-top: 20px;
     margin-bottom: 30px;
     transition: all 0.3s ease;
-    transform: rotateZ(0deg);
+    
     
 }
 .col .material-symbols-outlined:hover{
@@ -214,11 +214,11 @@ h2{
 
 .img-fluid{
 transition: all 0.3s ease;
-transform: rotateZ(0deg);
+transform: translateY(0);
 }
 .img-fluid:hover{
     transition: all 0.3s ease;
-    transform: rotate(360deg);
+    transform: translateY(-20px);
 
 }
 
