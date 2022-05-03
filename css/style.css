@@ -214,11 +214,11 @@ h2{
 
 .img-fluid{
 transition: all 0.3s ease;
-transform: translateY(0);
+transform: rotateZ(0deg);
 }
 .img-fluid:hover{
     transition: all 0.3s ease;
-    transform: translateY(-20px);
+    transform: rotate(360deg);
 
 }
 
