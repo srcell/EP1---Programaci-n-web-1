@@ -138,6 +138,9 @@ h6{
 .row .col .material-symbols-outlined{
     color: #D69A24;
 } 
+.row .col .material-symbols-outlined:hover{
+    color: #fff;
+} 
 h2{
     color: rgba(200, 169, 106,0.1);
     font-size: 250px;
