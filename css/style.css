@@ -18,7 +18,7 @@
 }
 /* Footer-------------------------------- */
 #main-footer{
-    background-color: var(--color-gris-oscuro);
+    background-color: var(252525);
     color: var(--color-gris-claro);
     padding: 45px 0;
 }
@@ -31,10 +31,15 @@
 }
 
 #footer.footer-style01{
-    background: url(../img/footer/img-ng-footer.jpg);
+    background: url(index.html);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+
+}
+.row{
+    background-color: #252525;
+
 }
 
 .logo-footer {
@@ -57,8 +62,8 @@
     margin-top: calc(-1 * var(--bs-gutter-y));
     margin-right: calc(-.5 * var(--bs-gutter-x));
     margin-left: calc(-.5 * var(--bs-gutter-x));
-}
 
+}
 /* Scroll Top
 -------------------------------------------------------------- */
 .wrap-scroll {
@@ -69,6 +74,7 @@
     width: 100%;
     position: relative;
     z-index: 15;
+    
 }
 
 #scroll-top {
@@ -86,6 +92,7 @@
 #scroll-top img{
     width: 80px;
     height: 96px;
+    
 }
 
 #scroll-top:hover img{
