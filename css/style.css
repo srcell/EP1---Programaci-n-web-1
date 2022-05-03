@@ -164,9 +164,10 @@ h6{
 #categorias .col{
     text-align: center;
     display: grid;
-    margin-right: 76px;
-    padding-top: 32px;
-    padding-bottom: 106px;
+    margin-right: 25px;
+    margin-left: 2px;
+    padding-top: 41px;
+    padding-bottom: 79px;
     padding-right: 0px;
     font-size: 24px;
     padding-left: 0px;
