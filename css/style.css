@@ -20,7 +20,7 @@
 #main-footer{
     background-color: var(--color-gris-oscuro);
     color: var(--color-gris-claro);
-    padding: 45px 0;
+    padding: 0px 0;
 }
 /* Footer
 -------------------------------------------------------------- */
@@ -142,6 +142,15 @@ h7{
     font-size: 250px;
     font-family: 'Forum', cursive;
 }
+
+
+.heading .tit h7{
+    margin-right: 270px;
+}
+
+.heading .tit1{
+    margin-top: -198px;
+}
 .tit1{
     margin-top: -235px;
     padding-bottom: 126px;
@@ -162,6 +171,12 @@ h7{
     font-weight: 600;
     color: #000000;
     margin-top: 25px;
+}
+.col-xl-3{
+    width: 100%;
+}
+.col-xl-12{
+    display: flex;
 }
 
 #categorias .col{
