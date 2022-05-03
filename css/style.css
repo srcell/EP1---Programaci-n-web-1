@@ -495,7 +495,7 @@
 
 /* Footer-------------------------------- */
 .padded{
-    background-image: url("../image/fondo.jpg");
+    background-color:var(--color1);
     padding-top: 90px;
     padding-bottom: 90px;
 }
@@ -525,6 +525,11 @@ h3{
    margin-left: 110px;
 }
 
+#categorias .col-3{
+    text-align: center;
+    color: var(--color2);
+    background-color: var(--color-blanco);
+}
 #menu-iconos{
     display: inline;
 }
