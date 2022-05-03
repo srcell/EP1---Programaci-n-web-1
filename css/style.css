@@ -152,10 +152,10 @@ h6{
     margin-bottom: 34px;
     margin-top: 20px;
     color: #c8a96a;
-    transition: background-color, width 4s;
+    transition: color, width 4s;
 }
 #icom .material-symbols-outlined:hover{
-    background-color: var(--color-blanco);
+  color: var(--color-blanco);
 }
 
 
