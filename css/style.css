@@ -129,18 +129,18 @@ h4{
     text-align: center;
 }
 
-h5{
-    color: rgba(200, 169, 106,0.1);
-    font-size: 250px;
-    font-family: 'Forum', cursive;
-   
-}
+
 h6{
     font-family: 'Forum', cursive;
     color: #1d1d1d;
     font-size: 52px;
     text-align: center;
     
+}
+h7{
+    color: rgba(200, 169, 106,0.1);
+    font-size: 250px;
+    font-family: 'Forum', cursive;
 }
 .tit1{
     margin-top: -200px;
@@ -182,6 +182,7 @@ h6{
 #categorias .col #icom .material-symbols-outlined{
     color: #c8a96a;
     transition: color,widt 0s;
+    transition: all 0.8s ease;
 }
 
 #categorias .col #icom .material-symbols-outlined:hover{
