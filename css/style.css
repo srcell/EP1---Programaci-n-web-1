@@ -87,8 +87,8 @@
 /* Footer-------------------------------- */
 .padded{
     background-color:var(--color1);
-    padding-top: 90px;
-    padding-bottom: 90px;
+    padding-top: 100px;
+    padding-bottom: 92px;
 }
 .carousel-indicators [data-bs-target]{
     height: 20px;
@@ -142,7 +142,7 @@ h7{
 p{
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
-    color: #1D1D1D;
+    
 }
 
 
