@@ -141,12 +141,8 @@ h7{
 }
 p{
     font-family: 'Open Sans', sans-serif;
-    font-size: 18px;
-    
+    font-size: 18px;  
 }
-
-
-
 h2{
     color: rgba(200, 169, 106,0.1);
     font-size: 250px;
@@ -157,11 +153,9 @@ h2{
     font-size: 250px;
     font-family: 'Forum', cursive;
 }
-
 .heading .tit h2{
     margin-right: 270px;
 }
-
 .heading .tit1{
     margin-top: -198px;
 }
@@ -169,7 +163,6 @@ h2{
     margin-top: -235px;
     padding-bottom: 126px;
 }
-
 #icom .material-symbols-outlined{
     font-size: 50px;
     margin-bottom: 34px;
@@ -177,8 +170,6 @@ h2{
     color: #c8a96a;
     transition: color, width 4s;
 }
-
-
 .col-xl-3{
     width: 100%;
 }
@@ -188,7 +179,6 @@ h2{
 .col-md-7col-sm-6 h2{
     font-size: 100px;
 }
-
 #categorias .col{
     text-align: center;
     display: grid;
@@ -201,29 +191,21 @@ h2{
     padding-left: 0px;  
     background-color: var(--color-blanco);
     color :#000000;
-   
 }
 #categorias .col:hover{
     background-color:   #c8a96a;
     color: #FFFFFF;
-    ;
 }
-
 .col .material-symbols-outlined{
     font-size: 50px;
     margin-top: 20px;
     margin-bottom: 30px;
     transition: all 0.3s ease;
-    
-    
 }
 .col .material-symbols-outlined:hover{
     transition: all 0.3s ease;
     transform: rotate(360deg);
 }
-
-
-
 .img-fluid{
 transition: all 0.3s ease;
 transform: translateY(0);
@@ -231,10 +213,7 @@ transform: translateY(0);
 .img-fluid:hover{
     transition: all 0.3s ease;
     transform: translateY(-20px);
-
 }
-
-
 #menu-iconos{
     display: inline;
 }
@@ -249,26 +228,6 @@ transform: translateY(0);
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
 }
-
-/*.img-responsive{
-    border-radius: 50%;
-    transition: all 0.3s ease;
-}
-
-.cubiertos{
-    transition: all 0.3s ease;
-}
-.platos{
-    margin-top: 200px;
-    margin-bottom: 200px;
-
-    display: block;
-    width: 100%;
-    text-align: center;
-    display: flex;
-
-}*/
-
 .reseñas{
     display: flex;
     justify-content: center;
@@ -284,7 +243,6 @@ transform: translateY(0);
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
 }
 .reseñas_header h1{
 
@@ -301,7 +259,6 @@ color:#252525;
 margin-bottom: 25px ;
 text-transform: uppercase;
 }
-
 .reseña_contenedor{
 display: flex;
 justify-content: center;
@@ -320,20 +277,16 @@ width: 100%;
     cursor: pointer;
 }
 .perfil-img{
-
     width: 50px;
    height: 50px;   
    border-radius: 50%;
    overflow: hidden;
    margin-right: 30px;
    }
-
    .perfil-img img{
-
     width: 100%;
     height: 100%;
     object-fit: center;
-
    }
    .perfil{
        display: flex;
@@ -371,9 +324,6 @@ color: #f9d71d;
       align-items: center;
       margin-bottom: 20px;
   }
-
   .comentarios-clientes p{
 color: #4b4b4b;
-
-
   }
