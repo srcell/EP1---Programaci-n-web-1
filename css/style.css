@@ -128,8 +128,6 @@ h4{
     font-family: 'Forum', cursive;
     text-align: center;
 }
-
-
 h6{
     font-family: 'Forum', cursive;
     color: #1d1d1d;
@@ -142,9 +140,13 @@ h2{
     font-size: 250px;
     font-family: 'Forum', cursive;
 }
+.tit{
+    color: rgba(200, 169, 106,0.1);
+    font-size: 250px;
+    font-family: 'Forum', cursive;
+}
 
-
-.heading .tit h7{
+.heading .tit h2{
     margin-right: 270px;
 }
 
@@ -163,8 +165,6 @@ h2{
     color: #c8a96a;
     transition: color, width 4s;
 }
-
-
 
 #flec .material-symbols-outlined{
     font-size: 30px;
@@ -288,7 +288,6 @@ font-size: 2.2 rem;
 color:#252525;
 margin-bottom: 25px ;
 text-transform: uppercase;
-
 }
 
 .reseña_contenedor{
