@@ -137,7 +137,7 @@ h6{
     text-align: center;
     
 }
-h7{
+h2{
     color: rgba(200, 169, 106,0.1);
     font-size: 250px;
     font-family: 'Forum', cursive;
@@ -283,7 +283,7 @@ transform: translateY(0);
     padding: 10px 20px;
 
 }
-.reseñas_header span{
+.reseñas_header h2{
 font-size: 2.2 rem;
 color:#252525;
 margin-bottom: 25px ;
