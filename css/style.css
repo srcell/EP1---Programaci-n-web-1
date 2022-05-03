@@ -142,6 +142,15 @@ h7{
     font-size: 250px;
     font-family: 'Forum', cursive;
 }
+
+
+.heading .tit h7{
+    margin-right: 270px;
+}
+
+.heading .tit1{
+    margin-top: -198px;
+}
 .tit1{
     margin-top: -235px;
     padding-bottom: 126px;
