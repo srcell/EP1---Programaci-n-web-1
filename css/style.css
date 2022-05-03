@@ -148,7 +148,8 @@ h6{
 }
 
 #icom .material-symbols-outlined{
-    font-size: 50px;
+    font-size: 18px;
+    font-weight: 600;
     margin-bottom: 34px;
     margin-top: 20px;
     color: #c8a96a;
