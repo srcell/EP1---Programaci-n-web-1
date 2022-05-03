@@ -137,11 +137,13 @@ h3{
 }
 
 #categorias .col{
-    margin-left: 20px;
-    margin-right: 20px;
-    padding-right: 40px;
-    padding-right: 4s0px;
     text-align: center;
+    display: grid;
+    margin-right: 59px;
+    padding-top: 50px;
+    padding-bottom: 106px;
+    padding-right: 0px;
+    padding-left: 0px;
     color: var(--color2);
     background-color: var(--color-blanco);
 }
