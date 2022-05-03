@@ -172,6 +172,12 @@ h7{
     color: #000000;
     margin-top: 25px;
 }
+.col-xl-3{
+    width: 100%;
+}
+.col-xl-12{
+    display: flex;
+}
 
 #categorias .col{
     text-align: center;
