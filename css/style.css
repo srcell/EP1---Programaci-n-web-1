@@ -132,14 +132,7 @@ h6{
     text-align: center;
     
 }
-/*.row .col .material-symbols-outlined{
-    font-size: 50px;
-    color: #c8a96a;
-    margin-bottom: 41px;
-} 
-.row .col .material-symbols-outlined:hover{
-    color: #fff;
-} */
+
 
 
 h2{
@@ -173,12 +166,7 @@ h2{
     transition: color, width 4s;
 }
 
-#flec .material-symbols-outlined{
-    font-size: 30px;
-    font-weight: 600;
-    color: #000000;
-    margin-top: 25px;
-}
+
 .col-xl-3{
     width: 100%;
 }
@@ -206,6 +194,8 @@ h2{
     ;
 }
 
+
+
 .img-fluid{
 transition: all 0.3s ease;
 transform: translateY(0);
@@ -215,20 +205,6 @@ transform: translateY(0);
     transform: translateY(-20px);
 
 }
-
-
-/*#categorias .col #icom .material-symbols-outlined{
-    color: #c8a96a;
-    transition: color, width 4s;
-}
-#categorias .col #icom .material-symbols-outlined:hover{
-    color: #FFFFFF;
-}*/
-
-
-
-
-
 
 
 #menu-iconos{
